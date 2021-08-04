@@ -1,6 +1,4 @@
-Hi! Welcome to my profile! My name is Jean-Christophe Morin and I'm a software developer and devops living in :canada:.
-
-Note that I'm also on [Bitbucket](https://bitbucket.org/jcmorinperso/).
+Hi! Welcome to my profile! My name is Jean-Christophe Morin and I'm a software developer and DevOps living in :canada:.
 
 # How to contact me
 
@@ -9,8 +7,9 @@ Note that I'm also on [Bitbucket](https://bitbucket.org/jcmorinperso/).
 
 # Contributions
 
-Here is a list of projects/repositories I've contributed to.
+Here is a list of projects/repositories I've contributed to (ordered by first contribution, from newest to oldest).
 
-* [Rez](https://github.com/nerdvegas/rez) - I have the collaborator permission role.
+* [OpenTimelineIO](https://github.com/PixarAnimationStudios/OpenTimelineIO)
 * [Jenkins Warnings Next Generation Plugin](https://github.com/jenkinsci/warnings-ng-plugin) - Improved Pylint support and make it on par with other tools.
 * [Jenkins Bitbucket Branch Source Plugin](https://github.com/jenkinsci/bitbucket-branch-source-plugin)
+* [Rez](https://github.com/nerdvegas/rez) - I have the collaborator permission role.
