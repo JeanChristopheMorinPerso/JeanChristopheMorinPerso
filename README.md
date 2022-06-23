@@ -7,9 +7,9 @@ Hi! Welcome to my profile! My name is Jean-Christophe Morin and I'm a software d
 
 # Contributions
 
-Here is a list of projects/repositories I've contributed to (ordered by first contribution, from newest to oldest).
+Here is a non exhaustive list of projects/repositories I've contributed to (ordered by first contribution, from newest to oldest).
 
-* [OpenTimelineIO](https://github.com/PixarAnimationStudios/OpenTimelineIO)
+* [OpenTimelineIO](https://github.com/AcademySoftwareFoundation/OpenTimelineIO)
+* [Rez](https://github.com/AcademySoftwareFoundation/OpenTimelineIO) - I have the collaborator permission role.
 * [Jenkins Warnings Next Generation Plugin](https://github.com/jenkinsci/warnings-ng-plugin) - Improved Pylint support and make it on par with other tools.
 * [Jenkins Bitbucket Branch Source Plugin](https://github.com/jenkinsci/bitbucket-branch-source-plugin)
-* [Rez](https://github.com/nerdvegas/rez) - I have the collaborator permission role.
