@@ -11,6 +11,12 @@ You can find me here on GitHub and also on https://academysoftwarefdn.slack.com.
 * [Email](mailto:jean_christophe_morin@hotmail.com)
 * For [ASWF](https://www.aswf.io/) related things, you can also talk to me on Slack at https://academysoftwarefdn.slack.com.
 
+# Projects
+
+* [otio-wasm](https://github.com/JeanChristopheMorinPerso/otio-wasm): OTIO Python binding in a browser. Includes an SVG renderer that runs entirely in the browser. Try it out at https://jcmorin.dev/otio-wasm/!
+* [OpenTimelineIO JS bindings](https://github.com/JeanChristopheMorinPerso/OpenTimelineIO-JS-Bindings): OTIO's C++ API compiled to WASM.
+* [rez-pip](https://github.com/JeanChristopheMorinPerso/OpenTimelineIO-JS-Bindings): A replacement for rez's built-in `rez-pip` command. The goal is to replace the built-in version with this one.
+
 # Contributions
 
 Here is a non exhaustive list of projects/repositories I've contributed to (ordered by first contribution, from newest to oldest).
