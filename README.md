@@ -1,4 +1,4 @@
-My name is Jean-Christophe Morin and I'm a software developer and DevOps.
+My name is Jean-Christophe Morin and I'm a software developer and DevOps with lots of interests in builds, tests, CI and packaging (and other things too).
 
 People usually call me JC or Jean-Christophe. The majority of people prefer JC since it's a lot shorter. Christophe is not optional, so it’s either JC or Jean-Christophe, but not Jean or Christophe.
 
