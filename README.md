@@ -13,13 +13,13 @@ You can find me here on GitHub (right here) and also on https://slack.aswf.io. T
 
 * [otio-wasm](https://github.com/JeanChristopheMorinPerso/otio-wasm): OTIO Python binding in a browser. Includes an SVG renderer that runs entirely in the browser. Try it out at https://jcmorin.dev/otio-wasm/!
 * [OpenTimelineIO JS bindings](https://github.com/JeanChristopheMorinPerso/OpenTimelineIO-JS-Bindings): OTIO's C++ API compiled to WASM.
-* [rez-pip](https://github.com/JeanChristopheMorinPerso/OpenTimelineIO-JS-Bindings): A replacement for rez's built-in `rez-pip` command. The goal is to replace the built-in version with this one.
+* [rez-pip](https://github.com/JeanChristopheMorinPerso/rez-pip): A replacement for rez's built-in `rez-pip` command. The goal is to replace the built-in version with this one.
 
 # Contributions
 
 Here is a non exhaustive list of projects/repositories I've contributed to (ordered by first contribution, from newest to oldest, where applicable).
 
 * [OpenTimelineIO](https://github.com/AcademySoftwareFoundation/OpenTimelineIO) - Committer (November 2022 - now)
-* [Rez](https://github.com/AcademySoftwareFoundation/OpenTimelineIO) - TSC member (August 2022 - now)
+* [Rez](https://github.com/AcademySoftwareFoundation/rez) - TSC member (August 2022 - now)
 * [Jenkins Warnings Next Generation Plugin](https://github.com/jenkinsci/warnings-ng-plugin) - Improved Pylint support and make it on par with other tools.
 * [Jenkins Bitbucket Branch Source Plugin](https://github.com/jenkinsci/bitbucket-branch-source-plugin)
