@@ -20,6 +20,6 @@ You can find me here on GitHub (right here) and also on https://slack.aswf.io. T
 Here is a non exhaustive list of projects/repositories I've contributed to (ordered by first contribution, from newest to oldest, where applicable).
 
 * [OpenTimelineIO](https://github.com/AcademySoftwareFoundation/OpenTimelineIO) - Committer (November 2022 - now)
-* [Rez](https://github.com/AcademySoftwareFoundation/rez) - TSC member (August 2022 - now)
+* [Rez](https://github.com/AcademySoftwareFoundation/rez) - TSC member (August 2022 - now) and co-chair since July 2023.
 * [Jenkins Warnings Next Generation Plugin](https://github.com/jenkinsci/warnings-ng-plugin) - Improved Pylint support and make it on par with other tools.
 * [Jenkins Bitbucket Branch Source Plugin](https://github.com/jenkinsci/bitbucket-branch-source-plugin)
